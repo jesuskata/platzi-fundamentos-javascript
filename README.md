@@ -175,3 +175,5 @@ Como nota importante, se debe resaltar que tanto `else` como `else if` no son bl
 - `Math.floor()`
 - `Math.random()`
 - `toFixed()`
+- `while () {}`
+- `&&`
