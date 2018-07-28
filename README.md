@@ -172,3 +172,6 @@ Como nota importante, se debe resaltar que tanto `else` como `else if` no son bl
 - `toUpperCase()`
 - `!`
 - `? :`
+- `Math.floor()`
+- `Math.random()`
+- `toFixed()`
