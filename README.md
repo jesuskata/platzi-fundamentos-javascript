@@ -7,6 +7,7 @@
     - [El nuevo uso de las arrow functions](#el-nuevo-uso-de-las-arrow-functions)
     - [La variable const](#la-variable-const)
   - [Condicionales en JavaScript](#condicionales-en-javascript)
+  - [Comandos, métodos y palabras reservadas de javascript](#comandos-m%C3%A9todos-y-palabras-reservadas-de-javascript)
 
 En este README procuraré llevar los apuntes relevantes del curso, con el objetivo de que primeramente yo los pueda recordar para poder aplicarlos en un futuro.
 
@@ -137,3 +138,37 @@ Del ejemplo anterior:
 3. `else` se usa en caso que tengamos algo que responder si no se cumple la condición del __if__ o el __else if__.
 
 Como nota importante, se debe resaltar que tanto `else` como `else if` no son bloques de código obligatorios, ya que solo se usarán cuando deseemos que se ejecute algo en caso que no se cumpla la condición del `if`.
+
+## Comandos, métodos y palabras reservadas de javascript
+
+- `console.log()`
+- `var`
+- `const`
+- `let`
+- `${}`
+- `Math.PI`
+- `Math.pow()`
+- `if () {}`
+- `else {}`
+- `else if () {}`
+- `alert()`
+- `true`
+- `false`
+- `toLowerCase()`
+- `endsWith()`
+- `slice()`
+- `startsWith()`
+- `+=`
+- `++`
+- `==`
+- `>=`
+- `length`
+- `Math.round()`
+- `split()`
+- `reverse()`
+- `join()`
+- `for () {}`
+- `charAt()`
+- `toUpperCase()`
+- `!`
+- `? :`
